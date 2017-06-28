@@ -11,3 +11,6 @@ Link: http://jsbin.com/momibum/edit?js,output
 
 Checkpoint 12: Java Functions
 Link: http://jsbin.com/lowakiv/edit?js,output
+
+Checkpoint 13: Java Conditionals
+Link: http://jsbin.com/locerom/edit?js,output
