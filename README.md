@@ -28,3 +28,6 @@ Link: http://jsbin.com/nuvibim/edit?js,output
 Link2: http://jsbin.com/zokafu/edit?js,output
 Link3: http://jsbin.com/vasicoz/edit?js,output
 Link4: http://jsbin.com/xezuqam/edit?js,output
+
+Checkpoint 17:
+Link: https://jsbin.com/zicuman/1/edit?js,output
