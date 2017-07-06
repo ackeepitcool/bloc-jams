@@ -22,3 +22,9 @@ Checkpoint 15:
 Link: http://jsbin.com/poyanaz/edit?js,output
 Link2: http://jsbin.com/hixapak/edit?js,output
 Link3: http://jsbin.com/giwexix/edit?js,output
+
+Checkpoint 16:
+Link: http://jsbin.com/nuvibim/edit?js,output
+Link2: http://jsbin.com/zokafu/edit?js,output
+Link3: http://jsbin.com/vasicoz/edit?js,output
+Link4: http://jsbin.com/xezuqam/edit?js,output
