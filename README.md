@@ -31,3 +31,6 @@ Link4: http://jsbin.com/xezuqam/edit?js,output
 
 Checkpoint 17:
 Link: https://jsbin.com/zicuman/1/edit?js,output
+
+Checkpoint 18:
+Link: https://jsbin.com/sabatay/edit?js,output
