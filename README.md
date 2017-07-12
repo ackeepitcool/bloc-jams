@@ -34,3 +34,6 @@ Link: https://jsbin.com/zicuman/1/edit?js,output
 
 Checkpoint 18:
 Link: https://jsbin.com/sabatay/edit?js,output
+
+Checkpoint 19:
+Link: https://jsbin.com/dozebe/3/edit?js,console
