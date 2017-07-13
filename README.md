@@ -37,3 +37,6 @@ Link: https://jsbin.com/sabatay/edit?js,output
 
 Checkpoint 19:
 Link: https://jsbin.com/wukiseg/1/edit?js,console
+
+Checkpoint 20:
+Link: https://jsbin.com/taruduy/edit?js,console
